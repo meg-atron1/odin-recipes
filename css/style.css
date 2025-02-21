@@ -1,0 +1,15 @@
+body {
+    background-color: #dae9f0;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.recipe-title {
+    text-align: left;
+}
+
